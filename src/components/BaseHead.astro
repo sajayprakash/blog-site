@@ -51,7 +51,7 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
       return "dark";
     }
     return "light";
-  };
+  }();
   if (theme === "light") {
     document.documentElement.classList.remove("dark");
   } else {
