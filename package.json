@@ -1,5 +1,5 @@
 {
-  "name": "@example/blog",
+  "name": "sajay-blog",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -11,9 +11,20 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.1.2",
-    "@astrojs/mdx": "^0.18.0",
+    "@astrojs/image": "^0.16.0",
+    "@astrojs/react": "^2.1.0",
     "@astrojs/rss": "^2.2.0",
-    "@astrojs/sitemap": "^1.2.0"
+    "@astrojs/sitemap": "^1.2.0",
+    "@astrojs/tailwind": "^3.1.0",
+    "@types/react-dom": "^18.0.11",
+    "astro": "^2.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "tailwindcss": "^3.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "rehype-add-classes": "^1.0.0"
   }
 }
