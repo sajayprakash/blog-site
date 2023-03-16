@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Blog - Sajay Prakash';
 export const SITE_DESCRIPTION = 'A site where I post my blogs about tech and sometimes non-tech related stuff';
-export const HOMEPAGE_URL = 'https://blog.sajayprakash.com';
+export const HOMEPAGE_URL = 'https://sajayprakash.com';
