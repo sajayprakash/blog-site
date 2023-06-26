@@ -1,7 +1,7 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
 import { HOMEPAGE_URL } from "../consts";
-import { IoLogoGithub } from "react-icons/io5/index.js";
+import { IoLogoGithub, IoLogoRss } from "react-icons/io5/index.js";
 import ThemeToggle from "./ThemeToggleButton";
 import DropdownMenu from "./DropdownMenu";
 ---
@@ -14,7 +14,7 @@ import DropdownMenu from "./DropdownMenu";
         Sajay Prakash
       </h2>
       <div class="items-center gap-6 hidden md:flex">
-        <HeaderLink href={HOMEPAGE_URL}>About</HeaderLink>
+        <HeaderLink href={HOMEPAGE_URL}><IoLogoRss /></HeaderLink>
         <HeaderLink
           href="https://github.com/sajayprakash/blog-site"
           target="_blank"
