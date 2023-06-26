@@ -1,0 +1,15 @@
+---
+layout: "../../layouts/BlogPost.astro"
+title: "From Windows to Linux - Embracing Freedom and Minimalism"
+description: "Windows is the most widely used operating system in the world and I used it for many years but when I decided to try Linux for the first time, my view of the world changed drastically. "
+pubDate: "Jun 26 2023"
+heroImage: "/posts/linus-torvalds.webp"
+---
+
+Majority of the population in the world don't really care about what operating system they use, what software they run. However, as a computer science engineer and a tech enthusiast it is important that I use the right tools for the right job and we all know that unix based operating systems are vastly superior to Windows for development. I used to love Windows during the dominance of the Windows 7 era but since the release of Windows 8 , Windows has been getting worse. From the privacy violations to the constant useless forced feature updates that break the system and strict hardware requirements, Windows feels like a walled garden like Apple's MacOS.
+
+It was at this time, I decided to try out Linux, the first distro I used was [Ubuntu](https://ubuntu.com/). I was amazed by how beautiful the Unity desktop environment was and how well it ran in my old crappy laptop with Intel Atom single core CPU and 2 gb ram. This got me into the rabbit hole of distro-hopping and I've tried nearly 30 distros in my journey to find my perfect distro. Despite switching multiple distros, I came to the conclusion that the distro doesn't matter because anything that is on one distro can be brought into another distro because Linux is amazing and the open source ecosystem is unrivaled!
+
+This helped grow my love for Open Source software and also made me appreciate minimalism and the KISS(Keep it simple, stupid) design principle. I also discovered [Suckless](https://suckless.org/) which is a group of amazing developers who make super minimal software. Their [philosophy](https://suckless.org/philosophy/) is just awesome and I couldn't agree more with them. It is with the help of these open source developers that made me fall in love more with technology and be a really proud Computer Engineer. If it weren't for such, I would probably get bored of computer science.
+
+Nowadays, I use Windows only for playing games such as Valorant which has annoying anti-cheat software that is incompatible with Linux. I'm currently using [Arch Linux](https://archlinux.org/) along with [Suckless' DWM](https://dwm.suckless.org/) as my [tiling window manager](https://en.wikipedia.org/wiki/Tiling_window_manager). Tiling window managers make me way more effecient and productive, everything is just a keystroke away and I don't need to waste time using my mouse. I use [Neovim](https://neovim.io/) as my IDE/Text Editor. I'm heavily invested and immersed in an open ecosystem, every software I use does only one thing and does it good. If I didn't like for example, let's say the window manager I'm using. I could switch to something like Hyprland, Sway, BSPWM, i3wm and dozens of other options I have because I'm not in a walled garden. Now, I have choice and most importantly freedom!
